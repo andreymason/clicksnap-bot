@@ -9,13 +9,16 @@ This Python script automates engagement on Clickasnap, a platform for sharing ph
 
 ## Usage
 1. **Installation**: Ensure you have Python installed on your system.
-2. **Dependencies**: Install the required dependencies by installing from the requirements file:
-   
+2. **Dependencies**: Install the required dependencies by running:
+
    ```
    pip install -r requirements.txt
    ```
 
+   This will install the necessary packages listed in the requirements.txt file.
+
 3. **Configuration**: Replace placeholders in the script with your actual Clickasnap account credentials (`USERNAME`, `EMAIL`, `PASSWORD`).
+
 4. **Cron Job**: Set up a cron job to run the script periodically. For example, to run the script every 15 minutes, add the following line to your crontab:
 
    ```
