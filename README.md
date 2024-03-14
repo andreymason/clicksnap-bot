@@ -3,11 +3,11 @@
 
 This Python script automates engagement on Clickasnap, a platform for sharing photos. It logs into a Clickasnap account, browses the feed for new photos, and likes them to attract attention from other users.
 
-### Features
+## Features
 - **Login Automation**: The script automatically logs into the Clickasnap account using provided credentials.
 - **Engagement**: It browses the feed for new photos and likes them to increase visibility and attract more users to the account.
 
-### Usage
+## Usage
 1. **Installation**: Ensure you have Python installed on your system.
 2. **Dependencies**: Install the required dependencies using pip:
    ```
@@ -20,10 +20,10 @@ This Python script automates engagement on Clickasnap, a platform for sharing ph
    ```
    Replace `/usr/bin/python3` with the path to your Python interpreter, and `/path/to/your/script.py` with the actual path to your script.
 
-### Script Details
+## Script Details
 - The script first logs into the Clickasnap account using provided credentials.
 - It then fetches new photos from the feed and likes them one by one.
 - The script is designed to run periodically (e.g., every 15 minutes) to ensure consistent engagement with new content.
 
 Enjoy automating engagement on Clickasnap!
-```# clicksnap-bot
+```
