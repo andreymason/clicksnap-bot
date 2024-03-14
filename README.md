@@ -1,4 +1,4 @@
-```markdown
+
 # Clickasnap Photo Liker
 
 This Python script automates engagement on Clickasnap, a platform for sharing photos. It logs into a Clickasnap account, browses the feed for new photos, and likes them to attract attention from other users.
@@ -30,4 +30,4 @@ This Python script automates engagement on Clickasnap, a platform for sharing ph
 - The script is designed to run periodically (e.g., every 15 minutes) to ensure consistent engagement with new content.
 
 Enjoy automating engagement on Clickasnap!
-```
+
